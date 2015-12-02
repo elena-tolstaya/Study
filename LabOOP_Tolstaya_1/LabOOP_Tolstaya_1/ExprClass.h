@@ -1,5 +1,7 @@
 //Header file. Class declaration 
 //Expression Variant 24: y=sqrt(15*a)+b-a/4)/(c*d-1)
+//Change for GIT 
+//And another one
 
 #ifndef __ExprClass_H
 #define __ExprClass_H
