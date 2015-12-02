@@ -1,5 +1,6 @@
 //Class definition and calculations
 //Expression Variant 24: (y=sqrt(15*a)+b-a/4)/(c*d-1)
+//Adding comments to cpp file
 
 #include <stdafx.h>
 #include "ExprClass.h"
